@@ -1,5 +1,8 @@
+## Hi there! 👋
+### I'm Dinh Duc Huy, an **Web Developers** and Free Fire Tournament **Organizing Committee**
+
 # 💫 About Me:
-💻 I'm currently working on Garena Free Fire<br>💖 I'm currently responsible for managing and developing the broadcast of Free Fire tournaments<br>☕ I have a preference for strong coffee<br>💭 I'm working as a freelancer
+💻 I'm currently working on **Garena Free Fire**<br>💖 I'm currently responsible for managing and developing the **broadcast** of **Free Fire tournaments**<br>☕ I have a preference for strong coffee<br>💭 I'm working as a freelancer
 
 
 ## 🌐 Socials:
